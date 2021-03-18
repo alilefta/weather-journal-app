@@ -15,4 +15,3 @@ This project is an asynchronous web app that uses Web API and user data to dynam
 -   Run `npm install` to install app's dependencies.
 -   Start the server with `npm start` or `yarn start` if yarn was installed.
 
-## Demo
